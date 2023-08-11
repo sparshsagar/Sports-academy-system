@@ -31,7 +31,7 @@ functionalities
 
 2.3 All students will be able to exit the system
    
-3.** Assumptions for only registered student functionality**
+3.**Assumptions for only registered student functionality**
    
 3.1 Registered students will be able to view records of --- their coach, their own 
 record and registered sport schedule
