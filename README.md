@@ -2,7 +2,7 @@
 This project was created in 2021 for Introduction to python course at APU Malaysia
 Functionality-
 
-1. Assumptions for Admin functionality 
+1. Assumptions for Admin functionality
 1.1 Admin will be able to log in to the system by entering correct username and 
 password.
 1.2 Admin will be able to add records of --- Coach, Sport and Sport Schedule
