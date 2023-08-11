@@ -1,5 +1,6 @@
 # Sports Academy Management System
 This project was created in 2021 for Introduction to python course at APU Malaysia
+
 Functionality-
 1. **Assumptions for Admin functionality**
    
