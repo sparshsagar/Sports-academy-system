@@ -1,0 +1,10 @@
+sport15	Football	Royal Champions Sports Academy Bukit Jalil	 RCSA BKJ	
+sport16	Swimming	Royal Champions Sports Academy Kuala Lumpur	 RCSA KUL	
+sport3	Archery		Royal Champions Sports Academy Damansara	 RCSA DMS	
+sport4	Volleyball	Royal Champions Sports Academy Bukit Jalil	 RCSA BKJ	
+sport5	Basketball	Royal Champions Sports Academy Kuala Lumpur	 RCSA KUL	
+sport6	Cricket		Royal Champions Sports Academy Damansara	 RCSA DMS	
+sport7	Tennis		Royal Champions Sports Academy Bukit Jalil	 RCSA BKJ	
+sport8	Table Tennis	Royal Champions Sports Academy Kuala Lumpur	 RCSA KUL	
+sport9	Badminton	Royal Champions Sports Academy Damansara	 RCSA DMS	
+sport11	Gymnastics	Royal Champions Sports Academy Bukit Jalil	 RCSA BKJ	

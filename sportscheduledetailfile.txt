@@ -1,0 +1,10 @@
+sport1	Football	9am-11am Monday		8-10am Tuesday		8-10am Wednesday	8-10am Thursday	
+sport2	Swimming	7-9am  Monday		7 -9am Tuesday		7-9am Wednesday		7am -9am Friday	
+sport3	Archery		8am-11am Monday		8am-11am Tuesday	8am -11am Wednesday	8am-11am Saturday	
+sport4	Volleyball	1pm-3pm Monday		1pm-3pm Tuesday		1pm-3pm Thursday	1pm-3pm Friday	
+sport5	Basketball	5pm-6pm Monday		5pm-6pm Thursday	5pm-6pm Saturday	5pm-6pm Sunday	
+sport6	Cricket		6pm-7pm Monday		6pm-7pm Tuesday		6pm-7pm Wednesday	6pm-7pm Sunday	
+sport7	Tennis		4-7pm Tuesday		4-7pm Wednesday		4-7pm Thursday		4-7pm Friday	
+sport8	Table Tennis	5am-6am Monday		5am-6am Tuesday		5am-6am Friday		5am-6am Saturday	
+sport9	Badminton	7am-10am Wednesday	7am-10am Thursday	7am-10am Friday		7am-10am Saturday	
+sport11	Gymnastics	9pm-10pm Tuesday	9pm-10pm Wednesday	9pm-10pm Friday		9pm-10pm Sunday	

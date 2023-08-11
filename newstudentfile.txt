@@ -1,0 +1,4 @@
+Code		Name	Gender	Age	Phone		sportcode	sport		sportcentername					sportcentercode	coach	coachID	hourlypay	Schedule	
+student1	Sparsh	Male	17	123456789	sport1		Football	Royal Champions Sports Academy Bukit Jalil	RCSA BKJ	Sparsh	coach5	Rm80		monday 10-12pm	
+student3	Sagar	Male	18	0178850243	sport2		Swimming	Royal Champions Sports Academy Kuala Lumpur	RCSA KUL	coach2	coach2	Rm350	7-9am  Monday	
+student4	123	Male	19	178850243	sport15	Football	Royal Champions Sports Academy Bukit Jalil	RCSA BKJ			Sparsh	Rm400	8am-10am
